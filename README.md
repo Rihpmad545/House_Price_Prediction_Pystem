@@ -8,7 +8,7 @@ A Machine Learning project that predicts house prices based on property features
 
 This project estimates the market value of a house using Machine Learning techniques and various property characteristics.
 
-The system analyzes features such as:
+The system analyzes features such as :-
 
 * Area
 * Bedrooms
